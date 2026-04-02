@@ -1,0 +1,67 @@
+gpu_name,msrp_usd,msrp_source,launch_year
+Radeon RX 5700,349,AMD official,2019
+Radeon RX 5700 XT,399,AMD official,2019
+Radeon RX 5500 XT,169,AMD official,2019
+Radeon RX 5600 XT,279,AMD official,2020
+Radeon RX 6800,579,AMD official,2020
+Radeon RX 6800 XT,649,AMD official,2020
+Radeon RX 6900 XT,999,AMD official,2020
+Radeon RX 6700 XT,479,AMD official,2021
+Radeon RX 6700,319,AMD official,2022
+Radeon RX 6600 XT,379,AMD official,2021
+Radeon RX 6600,329,AMD official,2021
+Radeon RX 6400,159,AMD official,2022
+Radeon RX 6500 XT,199,AMD official,2022
+Radeon RX 6750 XT,549,AMD official,2022
+Radeon RX 6650 XT,399,AMD official,2022
+Radeon RX 6950 XT,1099,AMD official,2022
+Radeon RX 7900 XT,899,AMD official,2022
+Radeon RX 7900 XTX,999,AMD official,2022
+Radeon RX 7600,269,AMD official,2023
+Radeon RX 7700 XT,449,AMD official,2023
+Radeon RX 7800 XT,499,AMD official,2023
+Radeon RX 7600 XT,329,AMD official,2024
+Radeon RX 9070,549,AMD official,2025
+Radeon RX 9070 XT,599,AMD official,2025
+Radeon RX 9060 XT 16 GB,349,AMD official,2025
+Radeon RX 9060 XT 8 GB,299,AMD official,2025
+Arc A380,139,Intel official,2022
+Arc A750,249,Intel official,2022
+Arc A770,349,Intel official,2022
+Arc A580,179,Intel official,2023
+Arc B580,249,Intel official,2024
+Arc B570,219,Intel official,2025
+GeForce RTX 2060,349,NVIDIA official,2019
+GeForce RTX 2060 SUPER,399,NVIDIA official,2019
+GeForce RTX 2070,499,NVIDIA official,2018
+GeForce RTX 2070 SUPER,499,NVIDIA official,2019
+GeForce RTX 2080,699,NVIDIA official,2018
+GeForce RTX 2080 SUPER,699,NVIDIA official,2019
+GeForce RTX 2080 Ti,999,NVIDIA official,2018
+GeForce RTX 3060 12 GB,329,NVIDIA official,2021
+GeForce RTX 3060 Ti,399,NVIDIA official,2020
+GeForce RTX 3070,499,NVIDIA official,2020
+GeForce RTX 3070 Ti,599,NVIDIA official,2021
+GeForce RTX 3080,699,NVIDIA official,2020
+GeForce RTX 3080 Ti,1199,NVIDIA official,2021
+GeForce RTX 3080 12 GB,799,NVIDIA official,2022
+GeForce RTX 3090,1499,NVIDIA official,2020
+GeForce RTX 3090 Ti,1999,NVIDIA official,2022
+GeForce RTX 3050 8 GB,249,NVIDIA official,2022
+GeForce RTX 4060,299,NVIDIA official,2023
+GeForce RTX 4060 Ti 8 GB,399,NVIDIA official,2023
+GeForce RTX 4060 Ti 16 GB,499,NVIDIA official,2023
+GeForce RTX 4070,599,NVIDIA official,2023
+GeForce RTX 4070 SUPER,599,NVIDIA official,2024
+GeForce RTX 4070 Ti,799,NVIDIA official,2023
+GeForce RTX 4070 Ti SUPER,799,NVIDIA official,2024
+GeForce RTX 4080,1199,NVIDIA official,2022
+GeForce RTX 4080 SUPER,999,NVIDIA official,2024
+GeForce RTX 4090,1599,NVIDIA official,2022
+GeForce RTX 5060,299,NVIDIA official,2025
+GeForce RTX 5060 Ti 8 GB,399,NVIDIA official,2025
+GeForce RTX 5060 Ti 16 GB,449,NVIDIA official,2025
+GeForce RTX 5070,549,NVIDIA official,2025
+GeForce RTX 5070 Ti,749,NVIDIA official,2025
+GeForce RTX 5080,999,NVIDIA official,2025
+GeForce RTX 5090,1999,NVIDIA official,2025

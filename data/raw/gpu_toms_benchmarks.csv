@@ -1,0 +1,67 @@
+gpu_name,fps_1080p_med,fps_1080p_ultra,fps_1440p_ultra,fps_4k_ultra,suite_version
+GeForce RTX 2060,,,,,legacy
+GeForce RTX 2060 SUPER,,,,,legacy
+GeForce RTX 2070,,,,,legacy
+GeForce RTX 2070 SUPER,,,,,legacy
+GeForce RTX 2080,,,,,legacy
+GeForce RTX 2080 SUPER,,,,,legacy
+GeForce RTX 2080 Ti,,,,,legacy
+GeForce RTX 3050 8 GB,,,,,legacy
+GeForce RTX 3060 12 GB,,,,,legacy
+GeForce RTX 3060 Ti,,,,,legacy
+GeForce RTX 3070,,,,,legacy
+GeForce RTX 3070 Ti,,,,,legacy
+GeForce RTX 3080,,,,,legacy
+GeForce RTX 3080 Ti,,,,,legacy
+GeForce RTX 3080 12 GB,,,,,legacy
+GeForce RTX 3090,,,,,legacy
+GeForce RTX 3090 Ti,,,,,legacy
+GeForce RTX 4060,,,,,current
+GeForce RTX 4060 Ti 8 GB,,,,,current
+GeForce RTX 4060 Ti 16 GB,,,,,current
+GeForce RTX 4070,,,,,current
+GeForce RTX 4070 SUPER,,,,,current
+GeForce RTX 4070 Ti,,,,,current
+GeForce RTX 4070 Ti SUPER,,,,,current
+GeForce RTX 4080,,,,,current
+GeForce RTX 4080 SUPER,,,,,current
+GeForce RTX 4090,,,,,current
+GeForce RTX 5060,,,,,current
+GeForce RTX 5060 Ti 8 GB,,,,,current
+GeForce RTX 5060 Ti 16 GB,,,,,current
+GeForce RTX 5070,,,,,current
+GeForce RTX 5070 Ti,,,,,current
+GeForce RTX 5080,,,,,current
+GeForce RTX 5090,,,,,current
+Radeon RX 5500 XT,,,,,legacy
+Radeon RX 5600 XT,,,,,legacy
+Radeon RX 5700,,,,,legacy
+Radeon RX 5700 XT,,,,,legacy
+Radeon RX 6400,,,,,legacy
+Radeon RX 6500 XT,,,,,legacy
+Radeon RX 6600,,,,,current
+Radeon RX 6600 XT,,,,,current
+Radeon RX 6650 XT,,,,,current
+Radeon RX 6700,,,,,current
+Radeon RX 6700 XT,,,,,current
+Radeon RX 6750 XT,,,,,current
+Radeon RX 6800,,,,,current
+Radeon RX 6800 XT,,,,,current
+Radeon RX 6900 XT,,,,,current
+Radeon RX 6950 XT,,,,,current
+Radeon RX 7600,,,,,current
+Radeon RX 7600 XT,,,,,current
+Radeon RX 7700 XT,,,,,current
+Radeon RX 7800 XT,,,,,current
+Radeon RX 7900 XT,,,,,current
+Radeon RX 7900 XTX,,,,,current
+Radeon RX 9070,,,,,current
+Radeon RX 9070 XT,,,,,current
+Radeon RX 9060 XT 16 GB,,,,,current
+Radeon RX 9060 XT 8 GB,,,,,current
+Arc A380,,,,,current
+Arc A580,,,,,current
+Arc A750,,,,,current
+Arc A770,,,,,current
+Arc B580,,,,,current
+Arc B570,,,,,current

@@ -1,0 +1,67 @@
+gpu_name,passmark_g3d,passmark_source
+GeForce RTX 2060,13368,PassMark G3D Mark
+GeForce RTX 2060 SUPER,14756,PassMark G3D Mark
+GeForce RTX 2070,16065,PassMark G3D Mark
+GeForce RTX 2070 SUPER,17594,PassMark G3D Mark
+GeForce RTX 2080,17684,PassMark G3D Mark
+GeForce RTX 2080 SUPER,18349,PassMark G3D Mark
+GeForce RTX 2080 Ti,21483,PassMark G3D Mark
+GeForce RTX 3050 8 GB,12683,PassMark G3D Mark
+GeForce RTX 3060 12 GB,16744,PassMark G3D Mark
+GeForce RTX 3060 Ti,20325,PassMark G3D Mark
+GeForce RTX 3070,22128,PassMark G3D Mark
+GeForce RTX 3070 Ti,23260,PassMark G3D Mark
+GeForce RTX 3080,25023,PassMark G3D Mark
+GeForce RTX 3080 Ti,26053,PassMark G3D Mark
+GeForce RTX 3080 12 GB,25487,PassMark G3D Mark
+GeForce RTX 3090,26604,PassMark G3D Mark
+GeForce RTX 3090 Ti,29043,PassMark G3D Mark
+GeForce RTX 4060,17914,PassMark G3D Mark
+GeForce RTX 4060 Ti 8 GB,22618,PassMark G3D Mark
+GeForce RTX 4060 Ti 16 GB,22662,PassMark G3D Mark
+GeForce RTX 4070,26913,PassMark G3D Mark
+GeForce RTX 4070 SUPER,29537,PassMark G3D Mark
+GeForce RTX 4070 Ti,31576,PassMark G3D Mark
+GeForce RTX 4070 Ti SUPER,31807,PassMark G3D Mark
+GeForce RTX 4080,34432,PassMark G3D Mark
+GeForce RTX 4080 SUPER,34254,PassMark G3D Mark
+GeForce RTX 4090,38070,PassMark G3D Mark
+GeForce RTX 5060,16992,PassMark G3D Mark
+GeForce RTX 5060 Ti 8 GB,22374,PassMark G3D Mark
+GeForce RTX 5060 Ti 16 GB,22674,PassMark G3D Mark
+GeForce RTX 5070,27647,PassMark G3D Mark
+GeForce RTX 5070 Ti,32431,PassMark G3D Mark
+GeForce RTX 5080,35688,PassMark G3D Mark
+GeForce RTX 5090,38974,PassMark G3D Mark
+Radeon RX 5500 XT,8691,PassMark G3D Mark
+Radeon RX 5600 XT,12547,PassMark G3D Mark
+Radeon RX 5700,12726,PassMark G3D Mark
+Radeon RX 5700 XT,13654,PassMark G3D Mark
+Radeon RX 6400,7174,PassMark G3D Mark
+Radeon RX 6500 XT,7873,PassMark G3D Mark
+Radeon RX 6600,15070,PassMark G3D Mark
+Radeon RX 6600 XT,16038,PassMark G3D Mark
+Radeon RX 6650 XT,17113,PassMark G3D Mark
+Radeon RX 6700,17821,PassMark G3D Mark
+Radeon RX 6700 XT,19041,PassMark G3D Mark
+Radeon RX 6750 XT,20122,PassMark G3D Mark
+Radeon RX 6800,22030,PassMark G3D Mark
+Radeon RX 6800 XT,25038,PassMark G3D Mark
+Radeon RX 6900 XT,26281,PassMark G3D Mark
+Radeon RX 6950 XT,27411,PassMark G3D Mark
+Radeon RX 7600,16425,PassMark G3D Mark
+Radeon RX 7600 XT,17300,PassMark G3D Mark
+Radeon RX 7700 XT,22662,PassMark G3D Mark
+Radeon RX 7800 XT,24332,PassMark G3D Mark
+Radeon RX 7900 XT,29318,PassMark G3D Mark
+Radeon RX 7900 XTX,30735,PassMark G3D Mark
+Radeon RX 9070,24105,PassMark G3D Mark
+Radeon RX 9070 XT,27213,PassMark G3D Mark
+Radeon RX 9060 XT 16 GB,18542,PassMark G3D Mark
+Radeon RX 9060 XT 8 GB,17856,PassMark G3D Mark
+Arc A380,5765,PassMark G3D Mark
+Arc A580,12198,PassMark G3D Mark
+Arc A750,14327,PassMark G3D Mark
+Arc A770,15693,PassMark G3D Mark
+Arc B580,15908,PassMark G3D Mark
+Arc B570,13845,PassMark G3D Mark
